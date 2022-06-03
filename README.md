@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ElhefeElvis
 - 👀 I’m interested in Web and Javascript 
 - 🌱 I’m currently learning Web development 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on basically anything "web"
 - 📫 How to reach me via email: elvismarcelinus.ei@gmail.com 
 
 <!---
